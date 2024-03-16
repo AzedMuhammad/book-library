@@ -1,8 +1,3 @@
-# React + Vite
+TailwindCSS, ReactJS, HTML, JavaScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+"Our online library website provides a vast collection of digital resources, offering users easy access to a wide range of books, journals, articles, and multimedia materials. With a user-friendly interface, visitors can browse through various categories, search for specific titles, and even borrow e-books or audiobooks seamlessly. Our platform also facilitates interactive features such as user reviews, ratings, and personalized recommendations"
