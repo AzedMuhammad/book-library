@@ -14,7 +14,7 @@ const Services = () => {
 
           <div className="flex flex-row">
             <img
-              src="./src/assets/LibraryCover.png"
+              src="./public/LibraryCover.png"
               alt=""
               className="object-cover w-2/3"
             />
@@ -51,7 +51,7 @@ const Services = () => {
               </p>
             </div>
             <img
-              src="./src/assets/Right.png"
+              src="./public/Right.png"
               alt=""
               className="object-cover w-2/3"
             />

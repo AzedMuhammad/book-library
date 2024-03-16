@@ -14,17 +14,17 @@ const Features = () => {
           <div className="flex flex-row justify-center space-x-10">
             <Cards
               title="Search"
-              img="./src/assets/Search.png"
+              img="./public/Search.png"
               desc="Effortlessly find your next read with our powerful and intuitive book search."
             />
             <Cards
               title="Review"
-              img="./src/assets/Comment.png"
+              img="./public/Comment.png"
               desc="Discover insightful critiques and share your thoughts on diverse literary masterpieces effortlessly."
             />
             <Cards
               title="Wishlist"
-              img="./src/assets/Wishlist.png"
+              img="./public/Wishlist.png"
               desc="Curate your literary dreams–wishlist books  for future adventures and discoveries."
             />
           </div>

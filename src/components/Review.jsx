@@ -14,19 +14,19 @@ const Review = () => {
           {/* Cards */}
           <div className="flex flex-row justify-center space-x-16">
             <CardsReview
-              img="./src/assets/avatars/avatar.png"
+              img="./public/avatars/avatar.png"
               desc="Engaging plot, vivid characters; a captivating read that lingers in your thoughts."
               name="Jane Doe"
               school="School of Science"
             />
             <CardsReview
-              img="./src/assets/avatars/man.png"
+              img="./public/avatars/user.png"
               desc="Thought-provoking narrative and rich prose. A must-read for any avid book lover!"
               name="Mark Johnson"
               school="School of Science"
             />
             <CardsReview
-              img="./src/assets/avatars/user.png"
+              img="./public/avatars/man.png"
               desc="Immersive storytelling! An enriching literary experience worth savoring and sharing."
               name="Daniel Smith"
               school="School of Science"

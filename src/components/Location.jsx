@@ -10,7 +10,7 @@ const Location = () => {
           </div>
 
           <div className="flex flex-row justify-center">
-            <img src="./src/assets/Location.png" alt="" />
+            <img src="./public/Location.png" alt="" />
           </div>
         </div>
       </main>

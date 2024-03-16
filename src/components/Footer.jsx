@@ -13,7 +13,7 @@ const Footer = () => {
             <div className="flex flex-row space-x-6">
               <a href="https://github.com/AzedMuhammad">
                 <img
-                  src="./src/assets/socialmedia/github.png"
+                  src="./public/socialmedia/github.png"
                   alt="github"
                   className="h-16"
                 />
@@ -21,7 +21,7 @@ const Footer = () => {
 
               <a href="https://twitter.com/azedmuhammad">
                 <img
-                  src="./src/assets/socialmedia/twitter.png"
+                  src="./public/socialmedia/twitter.png"
                   alt="twitter"
                   className="h-16"
                 />
@@ -29,7 +29,7 @@ const Footer = () => {
 
               <a href="https://www.linkedin.com/in/azed-muhammad-noval-2498601b7/">
                 <img
-                  src="./src/assets/socialmedia/linkedin.png"
+                  src="./public/socialmedia/linkedin.png"
                   alt="linkedin"
                   className="h-16"
                 />

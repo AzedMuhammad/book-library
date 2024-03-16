@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <img
-        src="./src/assets/Cover.png"
+        src="./public/Cover.png"
         alt=""
         className="absolute right-0 object-cover h-full -z-10"
       />

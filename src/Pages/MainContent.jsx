@@ -26,12 +26,12 @@ const MainContent = () => {
         </div>
         <div className="flex flex-row items-center justify-center w-1/2 h-full">
           <img
-            src="./src/assets/bookImg.png"
+            src="./public/bookImg.png"
             alt="img"
             className="object-cover h-1/2"
           />
           <img
-            src="./src/assets/Midnight.png"
+            src="./public/Midnight.png"
             alt="img"
             className="object-cover h-1/2"
           />
